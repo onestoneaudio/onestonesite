@@ -10,7 +10,7 @@
   <meta name="description" content="Web Creator Description">
   
   
-  <title>Music Demo Reel</title>
+  <title>Brian's Demo Reel</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
@@ -378,27 +378,8 @@ $(document).ready(function(){
 		cssSelectorAncestor: "#jp_container_1"
 	}, [
 		
-		{
-			title:"<i>Anthem Just Trailer</i> (rescored, ALL AUDIO)",
-			artist:"",
-			m4v: "https://github.com/onestoneaudio/demoreelandmusic/raw/master/Anthem%20Final.mp4",
-			
-			poster: "https://github.com/onestoneaudio/demoreelandmusic/raw/master/anthemthumb.png"
-		},
-		{
-			title:"<i>Tanks!</i> Wwise Integration Log",
-			artist:"",
-			m4v: "https://github.com/onestoneaudio/demoreelandmusic/raw/master/Tanks!%20Compressed.m4v",
-			
-			poster: ""
-		},
-		{
-			title:"<i>Escape</i> (rescored, MUSIC ONLY)",
-			artist:"",
-			m4v: "https://github.com/onestoneaudio/demoreelandmusic/raw/master/Escape%20Video.mp4",
-			
-			poster: ""
-		},
+		
+		
 		{
 			title:"Scene from <i> Breaking Bad</i> (rescored, ALL AUDIO)",
 			artist:"",
@@ -406,27 +387,9 @@ $(document).ready(function(){
 			
 			poster: ""
 		},
-		{
-			title:"<i>XCOM</i> (rescored, MUSIC ONLY)",
-			artist:"",
-			m4v: "https://github.com/onestoneaudio/demoreelandmusic/raw/master/xcom%2025.mp4",
-			
-			poster: ""
-		},
-		{
-			title:"<i>Ernest’s Monologue</i> (MUSIC ONLY)",
-			artist:"",
-			m4v: "https://github.com/onestoneaudio/demoreelandmusic/raw/master/Felix%20Final.mp4",
-			
-			poster: ""
-		},
-		{
-			title:"<i>A Tale of Momentum and Gravity</i> (rescored, MUSIC ONLY)",
-			artist:"",
-			m4v: "https://github.com/onestoneaudio/demoreelandmusic/raw/master/Gravity%20Final.mp4",
-			
-			poster: ""
-		},
+		
+		
+		
 		{
 			title:"Scene from <i>Jessica Jones</i> (rescored, ALL AUDIO) ",
 			artist:"",
